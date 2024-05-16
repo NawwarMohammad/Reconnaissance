@@ -12,7 +12,7 @@ _______    ____         ___         ___         ___  ___         ___         ___
 |__|    \_____|  \__,_|     \_____/      \____/          \_____/      \____/        \__,_|  |__|""")
 print("\n**********************************SYRIA**************************************************")
 print("\n*            Copyright of Nawwar Mohammad, 2023                                         *")
-print("\n*            https://www.linkedin.com/in/nawwar-mhm-n35336249                           *")
+print("\n*            https://www.linkedin.com/in/nawwarmohammad/                                *")
 print("\n*            https://github.com/NawwarMohammad                                          *")
 print("\n**********************************SYRIA**************************************************")
 
